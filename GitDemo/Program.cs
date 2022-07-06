@@ -11,3 +11,6 @@ Console.WriteLine("Hello, World!");
 var b = new Banan("Gott");
 Console.WriteLine(b.Smak);
 
+var a = new Apelsin("Gott");
+Console.WriteLine(a.Smak);
+
