@@ -17,4 +17,3 @@ Console.WriteLine(a.Smak);
 
 Console.WriteLine("Hej från David!");
 Console.WriteLine("Hej");
-Console.WriteLine("Hej");
