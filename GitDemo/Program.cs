@@ -12,8 +12,9 @@ var b = new Banan("Gott");
 Console.WriteLine(b.Smak);
 
 var a = new Apelsin("Gott");
-Console.WriteLine(a.Smak);
+Console.WriteLine(a.Syrlighet);
 
 
 Console.WriteLine("Hej från David!");
+Console.WriteLine("Hej från David, igen.");
 
