@@ -14,3 +14,6 @@ Console.WriteLine(b.Smak);
 var a = new Apelsin("Gott");
 Console.WriteLine(a.Smak);
 
+
+Console.WriteLine("Hej från David!");
+
