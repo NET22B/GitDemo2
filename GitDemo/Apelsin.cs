@@ -1,12 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace GitDemo
+﻿namespace GitDemo
 {
     internal class Apelsin
     {
+        public string Smak { get; set; }
     }
 }
