@@ -16,4 +16,5 @@ Console.WriteLine(a.Smell);
 
 
 Console.WriteLine("Hej från David!");
-Console.WriteLine("Hej från program");
+Console.WriteLine("Hej från David, igen.");
+
